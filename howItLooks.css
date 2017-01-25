@@ -1,0 +1,28 @@
+#pink {
+	color: #E80C7A
+}
+
+#blue {
+	color: blue;
+}
+
+#smallFont {
+	font-size: 2em;
+}
+
+#mediumFont {
+	font-size: 4em;
+}
+
+#largeFont {
+	font-size: 6em;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+#batman {
+	width:200px;
+	height:150px;
+}
